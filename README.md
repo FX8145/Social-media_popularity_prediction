@@ -1,1 +1,2 @@
-# Social-media_popularity_prediction
+# R programming
+Social media popularity prediction project in R
